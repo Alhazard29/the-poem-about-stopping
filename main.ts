@@ -9,7 +9,7 @@ const scriptDir = dirname(fileURLToPath(import.meta.url));
 const poem = [
   "I stopped the letter halfway through the sentence",
   "where I was about to lie.",
-  "The pen stayed where my hand left it.",
+  "The pen stayed where I left it.",
   "The envelope stayed empty.",
   "The truth was the part I didn't write.",
 ].join("\n");
